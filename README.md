@@ -1,7 +1,9 @@
 # 🛒 Blinkit Sales Analysis Dashboard | Power BI
 
 📊 Business-Focused Dashboard for Sales Performance & Revenue Optimization  
-📌 End-to-End Project: Data Cleaning (Python) → Data Modeling → Power BI Dashboard → Business Insights
+
+📌 End-to-End Project: Data Cleaning (Python) → Data Modeling → Power BI Dashboard → Business Insights  
+
 ⭐ Highlight: Identified Tier 3 outlets and Supermarket Type 1 as top revenue drivers
 
 ---
